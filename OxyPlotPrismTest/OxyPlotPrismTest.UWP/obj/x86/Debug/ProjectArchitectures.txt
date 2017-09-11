@@ -1,0 +1,2 @@
+C:\Users\ushida\Documents\Visual Studio 2017\Projects\OxyPlotPrismTest\OxyPlotPrismTest\OxyPlotPrismTest.UWP\OxyPlotPrismTest.UWP.csproj;x86
+C:\Users\ushida\Documents\Visual Studio 2017\Projects\OxyPlotPrismTest\OxyPlotPrismTest\OxyPlotPrismTest\OxyPlotPrismTest.csproj;neutral
